@@ -1,11 +1,17 @@
 # ASG1
-For this assignment I will be creating a website. The purpose of this website is to talk about video games. 
+For this assignment I will be creating a website. The purpose of this website is to promote a fictional company that makes and sells electronics. 
 
-1. Brief history of video games
-2. Popular games nowadays
-3. Games I like to play
-4. Images of popular games
-5. Benefits and Harms of gaming
+Here is what I will cover: 
+1. What the company does
+2. History of the company
+3. Achievements and Accolades by the company
+4. Contact Information
+5. Products it sells (currently)
+6. Best selling products 
+7. Latest news 
+8. Mission Statement
 
-Maybe I can show images and examples of games. And also a video
+It will also include:
+1. A sign in/sign up button
+2. Other features I am thinking about
 
