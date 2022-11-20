@@ -9,7 +9,6 @@ Here is what I will cover:
 5. Products it sells (currently)
 6. Best selling products 
 7. Latest news 
-8. Mission Statement
 
 It will also include:
 1. A sign in/sign up button
