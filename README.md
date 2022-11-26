@@ -13,4 +13,7 @@ Here is what I will cover:
 It will also include:
 1. A sign in/sign up button
 2. Other features I am thinking about
-
+3. Search bar to look for products
+4. Promotion code bar
+5. Price range buttons
+6. Other features as well
