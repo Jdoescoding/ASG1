@@ -16,4 +16,13 @@ It will also include:
 3. Search bar to look for products
 4. Promotion code bar
 5. Price range buttons
-6. Other features as well
+6. Warranty registration
+
+References:
+https://www.aftershockpc.com/
+https://www.dreamcore.com.sg/
+Chibana, N. (2016, September 4). 50 Gorgeous Color Schemes From Award-Winning Websites [web log]. Retrieved November 28, 2022, from https://visme.co/blog/website-color-schemes/. 
+
+Images used:
+https://www.istockphoto.com/vector/realistic-mobile-phone-mockup-template-isolated-stock-vector-gm1309147753-398956594
+https://www.pexels.com/photo/macbook-pro-129208/
