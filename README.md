@@ -39,6 +39,18 @@ Mobile view of front page: https://xd.adobe.com/view/d7241534-6d85-4cbb-9dc8-f62
 
 I created this to better visualize my website and also understand how it will look before I start creating it.
 
+# Features
+The navigational bar allows users to go through the website and refer to the pages with relative ease.
+
+The images are used to allow users to have a better idea of what they are buying before they buy the product
+
+The "Add file" box allows users to add a receipt for their product for verification
+
+# Potential Features to add in the future
+Video to showcase more of the company
+
+Animation while the pages are loading
+
 # Technologies used
 
 I used HTML and CSS to create my website. I also got some help from websites like w3schools.
