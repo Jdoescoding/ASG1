@@ -2,7 +2,7 @@
 # Ronohs Electronics
 For this assignment I will be creating a website. The purpose of this website is to promote a fictional company that makes and sells electronics. It also shows us what other services are provided by it
 
-It also mentions its history and values 
+It also mentions its history and values of the company.
 
 Here is what I will cover: 
 1. What the company does
@@ -21,10 +21,12 @@ It will also include:
 5. Warranty registration
 
 # Design Process
+
 I used the colors blue, light blue and dark green for my website as I found that they are able to complement each other and this colour combination is extremely pleasing to the eye. 
 My aim for this website is so users can know more about what this company does and also for current fans to buy their products. It also allows new fans to know about this company and why they should buy their products, as seen by the "About Us" and "Shop". I made the website navigation easy and more pleasing to the eye so people can navigate through the website more easily. 
 
 Wireframes used: 
+
 Contact Us: https://xd.adobe.com/view/7832f584-45c4-4675-913d-3ef3ac517c10-2d61/
 
 Home Page: https://xd.adobe.com/view/de61b40c-7700-4f2b-b2b6-98c6d4e64d1a-8b32/
@@ -37,23 +39,41 @@ Mobile view of front page: https://xd.adobe.com/view/d7241534-6d85-4cbb-9dc8-f62
 
 I created this to better visualize my website and also understand how it will look before I start creating it.
 
+# Technologies used
+
+I used HTML and CSS to create my website. I also got some help from websites like w3schools.
+
+Navigation bar: https://www.w3schools.com/css/css_navbar_horizontal.asp
+
+It was used to create a navigational bar to make it easier to go through the website.
+
+Links: https://www.w3schools.com/html/html_links.asp
+
+It was used to create links to link the webpages together.
+
+CSS: https://www.w3schools.com/html/html_css.asp
+
+It was used to link the html files to an external CSS file.
+
+
 # Testing
-I tested by installing the "Live Server" Extension on VS Code so that I do not have to keep refreshing my website everytime I make changes to it. I made sure everything can be seen clearly and can be accessed easily by anyone without confusion. 
-References:
+I tested by installing the "Live Server" Extension on VS Code so that I do not have to keep refreshing my website everytime I make changes to it. I made sure everything can be seen clearly and can be accessed easily by anyone without confusion. I also ensured that there was consistency in every webpage (Background colour is the same, navigation bar is at the same position)
+
+# References:
+
 https://www.aftershockpc.com/
 
 https://www.dreamcore.com.sg/
 
 Chibana, N. (2016, September 4). 50 Gorgeous Color Schemes From Award-Winning Websites [web log]. Retrieved November 28, 2022, from https://visme.co/blog/website-color-schemes/. 
 
-Images used:
+# Images used:
+
 https://www.istockphoto.com/vector/realistic-mobile-phone-mockup-template-isolated-stock-vector-gm1309147753-398956594
 
 https://www.pexels.com/photo/macbook-pro-129208/
 
 https://www.shutterstock.com/image-photo/storing-information-on-external-ssd-drive-2172972087
-
-https://www.pexels.com/photo/macbook-pro-129208/
 
 https://www.shutterstock.com/image-illustration/3d-golden-300-million-isolated-on-2225708399
 
