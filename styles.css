@@ -7,7 +7,7 @@ body{
     background-color: rgb(172, 226, 227)
 }
 .title{
-    color: rgb(0, 189, 132);
+    color: rgb(1, 77, 54);
     text-align: center
 }
 .header{
@@ -21,6 +21,9 @@ a:hover{
 }
 p{
     color:rgb(1, 77, 54);
+}
+li{
+    color:rgb(1,77,54)
 }
 h5{
     color:rgb(1, 77, 54);
@@ -66,8 +69,42 @@ h5{
     text-align:center;
     overflow:hidden;
     background-color:rgb(20, 216, 255);
+    height: 40px;
+    padding-top: 20px;
+    font-size: 20px;
 }
 .navbar a{
     text-decoration: none;
-    padding-left: 30px;
+    padding-left: 60px;
+}
+.warranty{
+    height:40px;
+}
+.search{
+    height:40px;
+}
+.searchbutton{
+    height:40px;
+}
+@media only screen and (max-width: 1000px) {
+    .navbar{
+        width: 1500px;
+        font-size: 30px;
+        padding-right:30px;
+        padding-bottom: 20px;
+    }
+    p{
+        font-size:40px;
+    }
+    h5{
+        font-size:45px;
+    }
+    .productslist{
+        display:flex;
+        flex-wrap:wrap;
+    }
+    .comp{
+        position:relative;
+        left: 40px;
+    }
 }
